@@ -8,3 +8,4 @@ chenhw2/aliyun-ddns-cli
 --platform=linux/arm64 chenhw2/aliyun-ddns-cli
 livekit/livekit-server
 livekit/generate
+mysql:5.7
