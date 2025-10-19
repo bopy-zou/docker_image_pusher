@@ -9,3 +9,4 @@ chenhw2/aliyun-ddns-cli
 livekit/livekit-server
 livekit/generate
 mysql:5.7
+adguard/adguardhome
