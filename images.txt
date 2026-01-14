@@ -10,3 +10,4 @@ livekit/livekit-server
 livekit/generate
 mysql:5.7
 adguard/adguardhome
+yanwk/comfyui-boot:cu128-slim
